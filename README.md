@@ -2,12 +2,15 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=wave&color=0:111827,100:2563EB&height=230&section=header&text=CAMOTTI&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=60&descSize=18&descColor=E5E7EB"
+    src="https://capsule-render.vercel.app/api?type=wave&color=0:111827,100:2563EB&height=220&section=header&text=CAMOTTI&fontSize=58&fontColor=FFFFFF&fontAlignY=42"
     width="100%"
+    alt="Camotti"
   />
 </p>
 
-<!-- ================= TYPING ================= -->
+<p align="center">
+  <strong>SOFTWARE ENGINEER · FULL-STACK DEVELOPER</strong>
+</p>
 
 <p align="center">
   <img
@@ -17,12 +20,12 @@
 </p>
 
 <p align="center">
-  <strong>Build • Test • Automate • Deploy • Improve</strong>
+  <strong>Build · Test · Automate · Deploy · Improve</strong>
 </p>
 
 ---
 
-# 👋 About Me
+# About Me
 
 I'm a **Software Engineer and Full-Stack Developer** focused on
 building practical, scalable and maintainable software.
@@ -37,15 +40,15 @@ functional software solutions.
 
 ---
 
-# 🧠 Engineering Focus
+# Engineering Focus
 
-| 💻 Software Engineering | 🎨 Frontend | ⚙️ Backend |
+| Software Engineering | Frontend | Backend |
 |:---:|:---:|:---:|
 | Architecture | React | .NET |
 | Clean Code | TypeScript | ASP.NET Core |
 | Maintainability | JavaScript | REST APIs |
 
-| ☁️ Cloud & DevOps | 🧪 Testing | Artificial Intelligence |
+| Cloud & DevOps | Testing | Artificial Intelligence |
 |:---:|:---:|:---:|
 | AWS | Postman | AI Applications |
 | Docker | Playwright | AI Integration |
@@ -53,21 +56,21 @@ functional software solutions.
 
 ---
 
-# 🛠️ Engineering Stack
+# Engineering Stack
 
-## 💻 Languages
+## Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,ts,js,python,bash" />
 </p>
 
 <p align="center">
-  <code>SQL</code>
+  <code>SQL</code> · <code>Shell</code>
 </p>
 
 ---
 
-## 🎨 Frontend
+## Frontend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind,bootstrap" />
@@ -75,7 +78,7 @@ functional software solutions.
 
 ---
 
-## ⚙️ Backend
+## Backend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,prisma" />
@@ -89,7 +92,7 @@ functional software solutions.
 
 ---
 
-## 🗄️ Databases
+## Databases
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
@@ -97,7 +100,7 @@ functional software solutions.
 
 ---
 
-## ☁️ Cloud & DevOps
+## Cloud & DevOps
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,jenkins" />
@@ -111,7 +114,7 @@ functional software solutions.
 
 ---
 
-## 🧪 Testing & Automation
+## Testing & Automation
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postman,selenium" />
@@ -123,7 +126,7 @@ functional software solutions.
 
 ---
 
-## 🎮 Game Development
+## Game Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,unreal,godot" />
@@ -135,7 +138,7 @@ functional software solutions.
 
 ---
 
-## 🔧 Development Tools
+## Development Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,rider" />
@@ -147,82 +150,83 @@ functional software solutions.
 
 ---
 
-## 📋 Project & Product Management
+## Project & Product Management
 
 <p align="center">
-
-`Jira` · `Trello` · `ClickUp` · `Notion`
-
+  <code>Jira</code> ·
+  <code>Trello</code> ·
+  <code>ClickUp</code> ·
+  <code>Notion</code>
 </p>
 
 ---
 
-# 🚀 What I Build
+# What I Build
 
-<p align="center">
-
-💻 Web Applications  
-🔌 REST APIs  
-🏗️ Software Architectures  
-🗄️ Data-driven Applications  
-☁️ Cloud Solutions  
-🔄 CI/CD Workflows  
-🧪 Automated Testing  
-🎮 Interactive & 3D Experiences  
-AI-powered Applications
-
-</p>
+- Web Applications
+- Full-Stack Applications
+- REST APIs
+- Software Architectures
+- Data-driven Applications
+- Cloud Solutions
+- CI/CD Workflows
+- Automated Testing
+- Interactive & 3D Experiences
+- AI-powered Applications
 
 ---
 
-# 📊 GitHub Activity
+# GitHub Activity
 
 <p align="center">
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=Camotti&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
   height="170"
+  alt="GitHub Statistics"
 />
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camotti&layout=compact&theme=transparent&hide_border=true"
   height="170"
+  alt="Most Used Languages"
 />
 
 </p>
 
 ---
 
-# 🔥 Contribution Activity
+# Contribution Activity
 
 <p align="center">
 
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=Camotti&theme=transparent&hide_border=true"
   width="70%"
+  alt="GitHub Contribution Streak"
 />
 
 </p>
 
 ---
 
-# 🌎 Languages
+# Languages
 
 | Language | Level |
 |:---|:---:|
-| 🇪🇸 Spanish | Native |
-| 🇬🇧 English | B2+ |
-| 🇮🇹 Italian | B2+ |
-| 🇫🇷 French | A2+ |
-| 🇵🇹 Portuguese | A2+ |
+| Spanish | Native |
+| English | B2+ |
+| Italian | B2+ |
+| French | A2+ |
+| Portuguese | A2+ |
 
 ---
 
-# 🎯 Professional Focus
+# Professional Focus
 
 I'm focused on becoming a stronger **end-to-end Software Engineer**,
-combining frontend, backend, architecture, cloud infrastructure,
-testing and automation.
+combining frontend, backend, software architecture, cloud
+infrastructure, testing and automation.
 
 My current professional direction is centered around:
 
@@ -234,30 +238,9 @@ with a growing interest in:
 
 ---
 
-# 🧠 Engineering Mindset
 
-```text
-              PROBLEM
-                 │
-                 ▼
-               DESIGN
-                 │
-                 ▼
-              DEVELOP
-                 │
-                 ▼
-                TEST
-                 │
-                 ▼
-              AUTOMATE
-                 │
-                 ▼
-               DEPLOY
-                 │
-                 ▼
-              IMPROVE
 
-# 🤝 Connect With Me
+# Connect With Me
 
 <p align="center">
 
@@ -265,6 +248,7 @@ with a growing interest in:
   <img
     src="https://skillicons.dev/icons?i=linkedin"
     width="55"
+    alt="LinkedIn"
   />
 </a>
 
@@ -279,12 +263,13 @@ with a growing interest in:
 ---
 
 <p align="center">
-  <strong>Building software. Expanding possibilities.</strong>
+  <strong>Software Engineering · Full-Stack Development · Cloud · AI</strong>
 </p>
 
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=wave&color=0:2563EB,100:111827&height=100&section=footer"
     width="100%"
+    alt=""
   />
 </p>
