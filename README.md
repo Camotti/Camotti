@@ -1,16 +1,73 @@
-## Hi there 👋
+# Camilo Andres Rodriguez Pisciotti
 
-<!--
-**Camotti/Camotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Full-Stack Developer
 
-Here are some ideas to get you started:
+I build practical and scalable software with a focus on backend development,
+software architecture, cloud technologies and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I'm a software developer focused on building real-world applications
+and continuously improving my engineering skills.
+
+My main areas of interest are:
+
+- Software Engineering
+- Backend & Full-Stack Development
+- Software Architecture
+- Cloud & DevOps
+- Artificial Intelligence
+- FinTech & Digital Products
+
+I enjoy turning ideas into functional software and learning through
+hands-on projects.
+
+---
+
+## Tech Stack
+
+### Languages
+C# · TypeScript · JavaScript · SQL
+
+### Backend
+.NET · ASP.NET Core · Entity Framework Core · REST APIs
+
+### Frontend
+React · Vite · HTML · CSS
+
+### Databases
+PostgreSQL · SQL
+
+### Cloud & DevOps
+AWS · Docker · GitHub Actions · Azure DevOps
+
+### Testing & Automation
+Playwright · Postman · Swagger · Performance Testing
+
+---
+
+## Current Focus
+
+I'm currently focused on building production-oriented software
+and strengthening my skills in:
+
+- Backend engineering with .NET
+- Full-Stack development with TypeScript and React
+- Software architecture
+- Cloud and DevOps
+- Automated testing
+- Artificial Intelligence
+
+---
+
+## Engineering Interests
+
+Software Engineering · Cloud · AI · FinTech · Digital Products
+
+---
+
+## Connect
+
+- LinkedIn: [LinkedIn](TU_LINKEDIN)
