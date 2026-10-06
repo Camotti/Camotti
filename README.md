@@ -73,7 +73,7 @@ functional software solutions.
 </p>
 
 <p align="center">
-  <code>SQL</code> · <code>Shell</code>
+  <code>Bash</code> · <code>Shell</code>
 </p>
 
 ---
